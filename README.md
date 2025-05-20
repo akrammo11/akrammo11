@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohammed Akram Ali</h1>
+<h1 align="center">Hi there! , I'm Mohammed Akram Ali</h1>
 <h3 align="center">A passionate Cloud Engineer from India</h3>
 
 - 🌱 I’m currently learning **Kubernetes**
