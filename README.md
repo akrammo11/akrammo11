@@ -10,11 +10,9 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 🏦 I'm a Cloud Engineer – Amazon Web Services working for a service based company in India 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 📝 I regulary write technical articles for [hashnode](https://apoorvtyagi.tech/) and [dev.to](https://dev.to/apoorvtyagi)
-- 💻 I use daily: **aws**, **linux**, **yaml**,  **python**
+- 💻 I use daily: **Linux**, **YAML**, **ShellScripting**,  **Python**
 - 💬 Talk to me about cricket, football & startups
 - 👯 We can connect to play some games of Chess ♟
-- ⚡ Fun fact: Je connais un peu le français
 - 🧑‍💻 Tech I work on :
 
 <p align="center">
@@ -33,7 +31,7 @@
 
 ---
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
-![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=akrammo11&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
+![Akram's github stats](https://github-readme-stats.vercel.app/api?username=akrammo11&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akrammo11&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)]
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akrammo11&theme=dark)](https://git.io/streak-stats)
 
