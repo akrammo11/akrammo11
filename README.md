@@ -10,7 +10,7 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 🏦 I'm a Cloud Engineer – Amazon Web Services working for a service based company in India 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 💻 I use daily: **Linux**, **YAML**, **ShellScripting**,  **Python**
+- 💻 I use daily: **Linux**, **ShellScripting**,  **Python**, **YAML**
 - 💬 Talk to me about cricket, football & startups
 - 👯 We can connect to play some games of Chess ♟
 - 🧑‍💻 Tech I work on :
